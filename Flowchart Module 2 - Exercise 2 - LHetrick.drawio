@@ -1,0 +1,88 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="nPIBE_KZODvHIQ4K4xuF">
+    <mxGraphModel dx="1114" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="ecmypfrjjyiOZ83XFJCV-1" target="ecmypfrjjyiOZ83XFJCV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#eeeeee;strokeColor=#36393d;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="10" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="ecmypfrjjyiOZ83XFJCV-2" target="ecmypfrjjyiOZ83XFJCV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-2" value="Input&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Labor&lt;/span&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;= $30&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#eeeeee;strokeColor=#36393d;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="ecmypfrjjyiOZ83XFJCV-3" target="ecmypfrjjyiOZ83XFJCV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-3" value="Declare ProjectedHours, WholesalePriceofMaterials,&amp;nbsp;&lt;div&gt;LaborCost, MaterialCosts,&lt;br&gt;&lt;div&gt;TotalCost&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#eeeeee;strokeColor=#36393d;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="315" y="100" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="ecmypfrjjyiOZ83XFJCV-4" target="ecmypfrjjyiOZ83XFJCV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-4" value="Input&amp;nbsp;&lt;div&gt;ProjectedHours&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#eeeeee;strokeColor=#36393d;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ecmypfrjjyiOZ83XFJCV-5" target="ecmypfrjjyiOZ83XFJCV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="ecmypfrjjyiOZ83XFJCV-5" target="ecmypfrjjyiOZ83XFJCV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-5" value="Input WholePriceof Materials" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#eeeeee;strokeColor=#36393d;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="370" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ecmypfrjjyiOZ83XFJCV-6" target="ecmypfrjjyiOZ83XFJCV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="ecmypfrjjyiOZ83XFJCV-6" target="ecmypfrjjyiOZ83XFJCV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-6" value="LaborCosts = ProjectedHours * $30" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="460" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ecmypfrjjyiOZ83XFJCV-7" target="ecmypfrjjyiOZ83XFJCV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="ecmypfrjjyiOZ83XFJCV-7" target="ecmypfrjjyiOZ83XFJCV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-7" value="&lt;font color=&quot;#000000&quot;&gt;MaterialCosts = WholePriceofMaterials * 1.2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="355" y="590" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ecmypfrjjyiOZ83XFJCV-8" target="ecmypfrjjyiOZ83XFJCV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="ecmypfrjjyiOZ83XFJCV-8" target="ecmypfrjjyiOZ83XFJCV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-8" value="TotalCost = LaborCosts + MaterialCosts" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="720" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ecmypfrjjyiOZ83XFJCV-9" target="ecmypfrjjyiOZ83XFJCV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="ecmypfrjjyiOZ83XFJCV-9" target="ecmypfrjjyiOZ83XFJCV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-9" value="Output&amp;nbsp;&lt;div&gt;TotalCost&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#eeeeee;strokeColor=#36393d;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="850" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="ecmypfrjjyiOZ83XFJCV-10" target="ecmypfrjjyiOZ83XFJCV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-10" value="End Program" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#eeeeee;strokeColor=#36393d;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="940" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ecmypfrjjyiOZ83XFJCV-11" value="Stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#eeeeee;strokeColor=#36393d;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1030" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

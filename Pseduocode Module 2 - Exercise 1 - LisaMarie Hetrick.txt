@@ -1,0 +1,18 @@
+start
+Define AccountBalance, OverDrawnFee, OverDrawnCount, OverDrawnFeePecercentage, OverDrawnPenalty, NewAccountBalance
+Set AccountBalance = 0
+Set OverDrawn Fee = 0
+Set OverDrawnFeePecercentage = 0.01
+Set OverDrawnPenalty = 5
+
+Input AccountBalance = "Please enter Account Balance:"
+Input OverDrawnCount = "Please enter number of times account was overdrawn:"
+
+Compute OverDrawnFee = (AccountBalance * OverDrawnFeePecercentage) + (OverDrawnCount * OverDrawnPenalty)
+Compute NewAccountBalance = AccountBalance - OverDrawnFee
+
+Print "The calculated fee is: $" + OverDrawnFee
+Print "The new account balance is: $" + NewAccountBalance
+Print "Thanks for using this program"
+
+stop
